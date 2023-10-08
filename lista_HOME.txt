@@ -1,0 +1,3 @@
+total 4
+-rwxr-xr-x 1 otavio_cesarmf otavio_cesarmf 327 Oct  8 12:59 bash_script.sh
+-rw-r--r-- 1 otavio_cesarmf otavio_cesarmf   0 Oct  8 13:13 lista_HOME.txt
